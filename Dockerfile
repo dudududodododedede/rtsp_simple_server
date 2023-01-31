@@ -1,1 +1,1 @@
-FROM aler9/rtsp-simple-server:latest
+FROM aler9/rtsp-simple-server:latest AS build
